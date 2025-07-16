@@ -19,18 +19,7 @@ This is a clean and modern **profile page UI** built with Flutter. The app displ
 - **GridView** for gallery and friends list  
 - **MediaQuery** for responsive design  
 
-## 📂 Project Structure
 
-
-profile_app/
-├── lib/
-│   └── main.dart
-├── assets/
-│   └── images/
-│       ├── F1 Desktop Wallpaper.jpeg
-│       └── 345.jpeg
-├── pubspec.yaml
-└── README.md
 
 
 ### ▶️ Run the app
