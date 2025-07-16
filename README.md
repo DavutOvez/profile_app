@@ -32,11 +32,11 @@ profile_app/
 ├── pubspec.yaml
 └── README.md
 
-<pre>
+
 ### ▶️ Run the app
 
 ```bash
 flutter pub get
 flutter run
 ```
-</pre>
+
