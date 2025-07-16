@@ -1,16 +1,42 @@
-# profile_app
+# Flutter Profile UI App
 
-A new Flutter project.
+This is a clean and modern **profile page UI** built with Flutter. The app displays a profile photo, bio, statistics (likes, followers, following), friends list, and a simple image gallery — all in a stylish layout.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Transparent AppBar with back and menu icons  
+- Cover photo with a circular profile picture  
+- User name, short bio, "Follow" button, and Telegram icon  
+- Follower, following, and like counters  
+- Friends section (horizontally scrollable avatars)  
+- Simple image gallery using GridView  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** framework  
+- **Material Design** components  
+- **Stack** and **Positioned** widgets for layered layout  
+- **GridView** for gallery and friends list  
+- **MediaQuery** for responsive design  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+
+profile_app/
+├── lib/
+│   └── main.dart
+├── assets/
+│   └── images/
+│       ├── F1 Desktop Wallpaper.jpeg
+│       └── 345.jpeg
+├── pubspec.yaml
+└── README.md
+
+<pre>
+### ▶️ Run the app
+
+```bash
+flutter pub get
+flutter run
+```
+</pre>
